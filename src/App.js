@@ -255,8 +255,7 @@ const App = () => {
                 <h2>
                   <FaCalendarAlt /> Meetup
                 </h2>
-                <h3>What if famous brands had regular fonts? Meet RegulaBrands!</h3>
-                <p>I’ve worked in UX for the better part of a decade. From now on, I plan to rei...</p>
+                <h3>Finance & Investment Elite Social Mixer @Lujiazui</h3>
               </div>
               <div className="d-inline-block me-5" style={{ marginRight: '20px' }}>
         <FaCalendarAlt className="me-1"/> Fri, 12 Oct, 2018
